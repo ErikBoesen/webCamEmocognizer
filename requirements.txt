@@ -1,0 +1,5 @@
+numpy
+keras==1.2.1
+pandas
+theano==0.8.2
+tensorflow
